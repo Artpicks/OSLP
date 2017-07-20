@@ -31,13 +31,13 @@ Firstly, a custom drop table must be created in the form of:
 Item_name1 must exist as a tradeable item, or the program will crash. Quantity cans either be of the form (number) or (number1-number2, with number1 < number2), Rarity must have one of the following values (Common) (Uncommon) (Rare) (Very rare) (Always).
 So as an example, adding a single DWH drop with a very rare rarity:
 
-Dragon war hammer,1,Very rare
+Dragon warhammer,1,Very rare
 
 Or a coin drop with 1 to 1000 coins as a common:
 
 Coins,1-1000,Common
 
-Once done, save it to the Drop Tables folder as whatever name you'd like.
+Once done, save it to the Drop Tables folder as whatever name you'd like. The name must be identical to the name of the item, case and all.
 
 Now go to menus, open either bosses.txt or monsters.txt (depending on what you made) and add the following line:
 Name of Monster, filename
