@@ -10,7 +10,7 @@ AREAS OF IMPROVEMENT:
 
 - UI could use some makeup, as its function over form with regards to monster menus
 - A built in manager and creator of drop tables/monsters (manual atm)
-- If an icon doesn't exist, the program will crash. I've ensured all traceable are available, but untraceable may become an issue in the future
+- If an icon doesn't exist, the program will crash. I've ensured all tradeable items are available, but untradeables may become an issue in the future
 
 USAGE:
 
