@@ -1,0 +1,20 @@
+Monsters List:
+Aberrant spectre,Aberrant_spectre
+Abyssal Demon,Abyssal_Demon
+Barrows,Barrows
+Black dragon,Black_dragon
+Blue dragon,Blue_dragon
+Brutal black dragon,Brutal_black_dragon
+Brutal blue dragon,Brutal_blue_dragon
+Brutal red dragon,Brutal_red_dragon
+Cave Kraken,Cave_Kraken
+Dark Beast,Dark_Beast
+Dust Devil,Dust_Devil
+Gargoyle,Gargoyle
+Greater Nechryael,Greater_Nechryael
+Green dragon,Green_dragon
+Kurask,Kurask
+Lava dragon,Lava_dragon
+Nechryael,Nechryael
+Skeletal Wyvern,Skeletal_Wyvern
+Smoke Devil,Smoke_Devil

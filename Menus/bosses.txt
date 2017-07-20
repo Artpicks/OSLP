@@ -1,0 +1,26 @@
+Boss List:
+Abyssal Sire,Sire
+Callisto,Callisto
+Cerberus,Cerberus
+Chaos Elemental,Chaos_Elemental
+Chaos Fanatic,Fanatic
+Commander Zilyana,Zilyana
+Corporeal Beast,Corporeal
+Crazy archaeologist,Crazy_archaeologist
+Dagannoth Prime,Dagannoth_Prime
+Dagannoth Rex,Dagannoth_Rex
+Dagannoth Supreme,Dagannoth_Supreme
+General Graardor,Graardor
+Giant Mole,Giant_Mole
+K'ril Tsutsaroth,Tsutsaroth
+Kalphite Queen,Kalphite_Queen
+King Black Dragon,King_Black_Dragon
+Kraken,Kraken
+Kree'arra,Kree'arra
+Obor,Obor
+Scorpia,Scorpia
+Skotizo,Skotizo
+Thermonuclear,Thermonuclear_smoke_devil
+Venenatis,Venenatis
+Vet'ion,Vet'ion
+Zulrah,Zulrah
