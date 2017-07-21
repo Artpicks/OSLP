@@ -24,9 +24,11 @@ Monster Name, Wiki_Page_Name
 Firstly, a custom drop table must be created in the form of:
 
 >Monster Name
+>
 >Item_name1,Quantity1,Rarity1
 >
 >Item_name2,Quantity2a-Quantity2b,Rarity2
+>
 > etc.
 
 Item_name1 must exist as a tradeable item, or the program will crash. Quantity cans either be of the form (number) or (number1-number2, with number1 < number2), Rarity must have one of the following values (Common) (Uncommon) (Rare) (Very rare) (Always).
