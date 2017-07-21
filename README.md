@@ -25,6 +25,7 @@ Firstly, a custom drop table must be created in the form of:
 
 >Monster Name
 >Item_name1,Quantity1,Rarity1
+>
 >Item_name2,Quantity2a-Quantity2b,Rarity2
 > etc.
 
