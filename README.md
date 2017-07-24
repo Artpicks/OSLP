@@ -1,5 +1,11 @@
 Old School Looting Program
 
+This program requires:
+
+jdom2-2.0.5.jar http://www.jdom.org/index.html
+
+json-20170516.jar http://json.org/
+
 This program was designed as an easy way to keep track of drops from various bosses and creatures around Old School Runescape. It supports dynamic window creation, XML log saving and drop table information scraped straight from the 2007scape wiki (credit to /u/overlysalty). Requires Java 7+. Bugs can and likely will happen, please refer to the git hub page (https://github.com/Artpicks/OSLP) and create a post in the Issues section if one does not already exist. This program supports the creation of user-made drops tables as well, details below.
 
 POTENTIAL ISSUES:
