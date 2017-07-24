@@ -1,5 +1,7 @@
 Old School Looting Program
 
+Packaged jar can be found here: https://mega.co.nz/#!0Ox3HBqY!lm_E5JNNQcLAthV2af637tRbsJHGEvaOjWnt1o11dXk
+
 This program requires:
 
 jdom2-2.0.5.jar http://www.jdom.org/index.html
